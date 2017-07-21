@@ -1,3 +1,3 @@
 
-var x = 3;
-console.log(x);
+var message = 'Hello, World!';
+console.log(message);
